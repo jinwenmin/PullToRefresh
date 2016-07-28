@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">屏幕适配</string>
+    <string name="user_Name">用户姓名</string>
+    <string name="pwd_name">密码</string>
+    <string name="user_name_info">请输入用户名</string>
+    <string name="pwd_name_info">请输入密码</string>
+    <string name="user_name_error">用户名不能为空</string>
+    <string name="pwd_name_error">密码不能为空</string>
+
+    
+    <string name="login">登录</string>
+    <string name="login_success">登陆成功</string>
+    <string name="login_error">登录失败</string>
+    <string name="reset">重置</string>
+
+</resources>

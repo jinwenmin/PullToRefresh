@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PullToRefresh</string>
+    <string name="user_Name">userName</string>
+    <string name="pwd_name">pwd</string>
+    <string name="user_name_info">please userName</string>
+    <string name="pwd_name_info">please pwd</string>
+    <string name="user_name_error">user name error</string>
+    <string name="pwd_name_error">pwd error</string>
+
+    <string name="login">login</string>
+    <string name="login_success">login success</string>
+    <string name="login_error">login error</string>
+    <string name="reset">reset</string>
+
+</resources>
